@@ -1,16 +1,50 @@
-### Hi there 👋
+<strong>
+    <h2>Hi There! I'm Gabriel Mendonça</h2>
+</strong>
 
-<!--
-**gabrielsm14/Gabrielsm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    I'm a student of Systems Analysis and Development at Unasp (Centro Universitário Adventista de São Paulo)
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+    I'm very interested in Software Development and I always try to improve my skills every day.</h3>
+
+<h4 align="center">
+    Here are my social medias and email:
+</h4>
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/gabriel-mendonca14/">Linkedin</a>
+    <br>
+    <a href="https://github.com/gabrielsm14">Github</a>
+    <br>
+    <a href="gabriel.mendonca14@outlook.com">Email</a>
+</p>
+
+<p align="center">
+
+![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
+
+</p>
+
+<h3>
+    Here are some tecnologies i've been working with:
+</h3>
+
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
+![](https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=Spring%20Boot&color=000000)
+![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
+![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
+![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=mySQL&color=000000)
+![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
+
+
+
+
+<br />
+<br />
+
+
