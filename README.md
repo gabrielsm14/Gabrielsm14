@@ -43,12 +43,12 @@
 ![](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&&color=000000)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
+![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=000000)
 
 
 <br />
 <br />
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=Gabrielsm14&count_private=true&show_icons=true&theme=dracula)](https://github.com/Gabrielsm14/Gabrielsm14)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm14&layout=compact&hide_border=true)
 
