@@ -33,7 +33,10 @@
 </h3>
 
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=000000)
-![](https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=Spring%20Boot&color=000000)
+![](https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=Spring&color=000000)
+![](https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=Microservices&color=000000)
+![](https://img.shields.io/badge/-Swagger-informational?style=for-the-badge&logo=Swagger&color=000000)
+![](https://img.shields.io/badge/-Maven-informational?style=for-the-badge&logo=Apache%20Maven&color=000000)
 ![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&color=000000)
 ![](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=css3&color=000000)
 ![](https://img.shields.io/badge/-MySQL-informational?style=for-the-badge&logo=mySQL&color=000000)
@@ -42,9 +45,11 @@
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
 
 
-
-
 <br />
 <br />
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Gabrielsm14&count_private=true&show_icons=true&theme=dracula)](https://github.com/Gabrielsm14/Gabrielsm14)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielsm14&layout=compact&hide_border=true)
 
 
