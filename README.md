@@ -24,7 +24,7 @@
 
 <p align="center">
 
-![](https://img.shields.io/github/followers/AntonioFuziy?style=social)
+![](https://img.shields.io/github/followers/Gabrielsm14?style=social)
 
 </p>
 
