@@ -44,6 +44,9 @@
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=JavaScript&color=000000)
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&reactColor=white&color=000000)
 ![](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=000000)
+![](https://img.shields.io/badge/-MariaDB-informational?style=for-the-badge&logo=MariaDB%20Foundation&color=000000)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&color=000000)
+![](https://img.shields.io/badge/-SQL%20Server-informational?style=for-the-badge&logo=Microsoft%20SQL%20Server&color=000000)
 
 
 <br />
