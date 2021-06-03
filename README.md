@@ -19,7 +19,6 @@
     <br>
     <a href="https://github.com/gabrielsm14">Github</a>
     <br>
-    <a href="gabriel.mendonca14@outlook.com">Email</a>
 </p>
 
 <p align="center">
