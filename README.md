@@ -16,9 +16,6 @@
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/gabriel-mendonca14/">Linkedin</a>
-    <br>
-    <a href="https://github.com/gabrielsm14">Github</a>
-    <br>
 </p>
 
 <p align="center">
