@@ -11,7 +11,7 @@
     I'm very interested in Software Development and I always try to improve my skills every day.</h3>
 
 <h4 align="center">
-    Here are my social medias and email:
+    Here are my social medias:
 </h4>
 
 <p align='center'>
