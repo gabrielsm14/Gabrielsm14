@@ -2,11 +2,6 @@
     <h2>Hi There! I'm Gabriel Mendonça</h2>
 </strong>
 
-<p align="center">
-    I'm a student of Systems Analysis and Development at Unasp (Centro Universitário Adventista de São Paulo)
-
-</p>
-
 <h3 align="center">
     I'm very interested in Software Development and I always try to improve my skills every day.</h3>
 
